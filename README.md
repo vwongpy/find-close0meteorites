@@ -5,4 +5,10 @@ training project
 
 This project requires Python 3 and the requests package.
 
-`python find_meteors.py`
+First, install pipenv. Then:
+
+```
+pipenv install
+python find_meteors.py
+```
+
